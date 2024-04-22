@@ -15,27 +15,27 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='-abo'></span>
 
-我将博士毕业于安徽合肥的中国科学技术大学信息科学技术学院，我的导师是李礼教授。
+My name is Junqi Liao (廖峻骐). I am studying for my PhD in the School of Information Science and Technology at the University of Science and Technology of China (USTC) in Hefei, Anhui Province. My supervisor is Professor Li Li (李礼).
  <a href='https://scholar.google.com/citations?user=KTPKjcIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
-我的研究领域包括：
-- 视频编码
-- 图像编码
-- 强化学习
+My research interests include:
+- Video coding
+- Image coding
+- Reinforcement learning
   
 
 
-<span class='anchor' id='-xl'></span>
+<span class='anchor' id='-edu'></span>
 
-# 🎓 学历
-- *2017.09 - 2021.06*, <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.jpg" width="23pt"></a> 大连海事大学 信息科学技术学院, 辽宁大连, 推免硕士 
-- *2021.09 至今*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/USTC_logo.png" width="23pt"></a> 中国科学技术大学 信息科学技术学院, 安徽合肥, 博士在读
+# 🎓 Educations
+- *2017.09 - 2021.06*, Undergraduate, <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.jpg" width="23pt"></a> Dalian Maritime University (DMU), School of Information Science and Technology, Dalian.
+- *2021.09 - Now*, Doctoral candidate, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/USTC_logo.png" width="23pt"></a> University of Science and Technology of China (USTC), School of Information Science and Technology, Hefei.
  
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='-pub'></span>
 
-# 📝 论文专利
+# 📝 Publications
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2024</div><img src='images/TMM2024.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -58,16 +58,16 @@ redirect_from:
 - Haotian Zhang, `Junqi Liao`, Yiheng Jiang, Li Li, Dong Liu. Padding-Aware Learned Image Compression. *2023 IEEE International Symposium on Circuits and Systems (ISCAS)*, 2023  
 [[网页]](https://ieeexplore.ieee.org/abstract/document/10181476)
 
-<span class='anchor' id='-ryjx'></span>
+<span class='anchor' id='-hon'></span>
 
-# 🏅 荣誉奖项
+# 🏅 Honors and Awards
 - *2024.03* ICIP 2024 Grand Challenge on Video Complexity `First prize winner` 
 - *2023.12* VCIP 2023 Grand Challenge Award (Image compression track) `First prize winner` 
 - *2022.12* VCIP 2022 Grand Challenge Award (Image compression performance track) `Second prize winner`
 
-<span class='anchor' id='-xshy'></span>
+<span class='anchor' id='-std'></span>
 
-# 💻 标准工作
+# 💻 Standard Contributions
 ### IEEE
 - *2022.06 - 2024.02*, IEEE 1857.11 Working Draft Editing
 - *2023.08*, CE5: Entropy codec engine convergence, VC-46-M407
