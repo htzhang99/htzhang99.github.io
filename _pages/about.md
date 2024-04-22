@@ -72,6 +72,7 @@ redirect_from:
 - *2022.06 - 2024.02*, IEEE 1857.11 Working Draft Editing
 - *2023.08*, CE5: Entropy codec engine convergence, VC-46-M407
 - *2023.07*, Crosscheck Report of M400, VC-45-M404
+
 ### JVET
 - J Liao, L Li, D Liu, H Li, and F. Wu, "AHG10: Improvement of Input Video Padding in VTM", m62771, Antalya, April 2023.
 - J Liao, L Li, D Liu, H Li, and F. Wu, "AHG10: Lambda-QP Relationship Fix for Slice-level Multi-QP Optimization", m62778, Antalya, April 2023.
