@@ -40,7 +40,7 @@ My research interests include:
 <div class='paper-box-text' markdown="1">
 
 -	`Junqi Liao`, Li Li, Dong Liu, Houqiang Li. Content-adaptive Rate-Distortion Modeling for Frame-level Rate Control in Versatile Video Coding. *IEEE Transactions on Multimedia*, 2024 
-[[网页]](https://ieeexplore.ieee.org/abstract/document/10413636)
+[[HTML]](https://ieeexplore.ieee.org/abstract/document/10413636)
 
 </div>
 </div>
@@ -49,13 +49,13 @@ My research interests include:
 <div class='paper-box-text' markdown="1">
 
 -	`Junqi Liao`, Li Li, Dong Liu, Houqiang Li. Reinforcement Learning-based Frame-level Bit Allocation for VVC. *2023 IEEE International Conference on Visual Communications and Image Processing (VCIP)*, 2023  
-[[网页]](https://ieeexplore.ieee.org/abstract/document/10402665)
+[[HTML]](https://ieeexplore.ieee.org/abstract/document/10402665)
 
 </div>
 </div>
 
 - Haotian Zhang, `Junqi Liao`, Yiheng Jiang, Li Li, Dong Liu. Padding-Aware Learned Image Compression. *2023 IEEE International Symposium on Circuits and Systems (ISCAS)*, 2023  
-[[网页]](https://ieeexplore.ieee.org/abstract/document/10181476)
+[[HTML]](https://ieeexplore.ieee.org/abstract/document/10181476)
 
 <span class='anchor' id='-hon'></span>
 
