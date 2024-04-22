@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 我将博士毕业于安徽合肥的中国科学技术大学信息科学技术学院，我的导师是李礼教授。
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+ <a href='https://scholar.google.com/citations?user=KTPKjcIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
 - 视频编码
@@ -37,11 +37,11 @@ redirect_from:
 
 # 📝 论文专利
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2024</div><img src='images/TMM2024.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+-	`Junqi Liao`, Li Li, Dong Liu, Houqiang Li. Content-adaptive Rate-Distortion Modeling for Frame-level Rate Control in Versatile Video Coding. *TMM*, 2024 
+[[网页]](https://ieeexplore.ieee.org/abstract/document/10413636)
 
 </div>
 </div>
