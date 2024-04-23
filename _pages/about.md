@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='-abo'></span>
 
-My name is Junqi Liao (廖峻骐). I am studying for my PhD in the School of Information Science and Technology at the University of Science and Technology of China (USTC) in Hefei, Anhui Province. My supervisor is Professor Li Li (李礼).
+My name is Junqi Liao (廖峻骐). I am studying for my PhD in the School of Information Science and Technology at the University of Science and Technology of China (USTC) in Hefei, Anhui Province. My supervisors are Professor Li Li (李礼) and Professor Dong Liu (刘东).
 
 My research interests include:
 - Video coding
