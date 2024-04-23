@@ -30,7 +30,7 @@ My research interests include:
 
 # 🎓 Educations
 - *2017.09 - 2021.06*, Undergraduate, <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.jpg" width="23pt"></a> Dalian Maritime University (DMU), School of Information Science and Technology, Dalian.
-- *2021.09 - Now*, Doctoral candidate, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/USTC_logo.png" width="23pt"></a> University of Science and Technology of China (USTC), School of Information Science and Technology, Hefei.
+- *2021.09 - Now*, Doctoral candidate, <a href="https://www.ustc.edu.cn/"><img class="svg" src="/images/USTC_logo.png" width="23pt"></a> University of Science and Technology of China (USTC), School of Information Science and Technology, Hefei.
  
 <span class='anchor' id='-pub'></span>
 
