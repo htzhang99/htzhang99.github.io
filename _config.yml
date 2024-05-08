@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Junqi Liao (廖峻骐)"
+title                    : "Haotian Zhang (张昊田)"
 description              : "PhD candidate in image and video coding"
-repository               : "Junqi98/Junqi98.github.io"
+repository               : "htzhang99/htzhang99.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Junqi Liao (廖峻骐)"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Haotian Zhang (张昊田)"
+  avatar           : "images/zht.jpg"
   bio              : "University of Science and Technology of China"
   location         : "Hefei, Anhui Province"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=KTPKjcIAAAAJ"
-  email            : "liaojq@ustc.mail.edu.cn"
+  googlescholar    : #"https://scholar.google.com/citations?user=KTPKjcIAAAAJ"
+  email            : "zhanghaotian@ustc.mail.edu.cn"
   researchgate     : #"https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : 
   bitbucket        :
@@ -37,9 +37,9 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Junqi98"
-  csdn             : "https://blog.csdn.net/qq_43616471"
-  zhihu            : "https://www.zhihu.com/people/chao-zhuai-xiao-peng-you"
+  github           : "htzhang99"
+  csdn             : #"https://blog.csdn.net/qq_43616471"
+  zhihu            : #"https://www.zhihu.com/people/chao-zhuai-xiao-peng-you"
   google_plus      :
   keybase          :
   instagram        :
@@ -47,7 +47,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0006-4030-174X"#"https://orcid.org/0000-0001-9658-209X"
+  orcid            : #"https://orcid.org/0009-0006-4030-174X"#"https://orcid.org/0000-0001-9658-209X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
