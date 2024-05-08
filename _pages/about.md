@@ -38,28 +38,13 @@ My research interests include:
 ---
 - Shuai Huo, Dong Liu, `Haotian Zhang`, Li Li, Siwei Ma, Feng Wu, Wen Gao. Towards Hybrid-optimization Video Coding. *ACM Computing Surveys*, 2024
 
-</div>
-</div>
-
 -	`Haotian Zhang`, Feihong Mei, Junqi Liao, Li Li, Houqiang Li, Dong Liu. Practical Learned Image Compression with Online Encoder Optimization. *PCS*, 2024 
-
-</div>
-</div>
 
 - Chuanbo Tang, Xihua Sheng, Zhuoyuan Li, `Haotian Zhang`, Li Li, Dong Liu. Offline and Online Optical Flow Enhancement for Deep Video Compression. *2024 AAAI Conference on Artificial Intelligence*, 2024
 
-</div>
-</div>
-
 -	Yuqi Li, `Haotian Zhang`, Dong Liu. Flexible Coding Order for Learned Image Compression. *2023 IEEE International Conference on Visual Communications and Image Processing (VCIP)*, 2023  
 
-</div>
-</div>
-
 -	`Haotian Zhang`, Li Li, Dong Liu. On Uniform Scalar Quantization for Learned Image Compression. *arxiv*, 2023
-
-</div>
-</div>
 
 - `Haotian Zhang`, Junqi Liao, Yiheng Jiang, Li Li, Dong Liu. Padding-Aware Learned Image Compression. *2023 IEEE International Symposium on Circuits and Systems (ISCAS)*, 2023  
 
