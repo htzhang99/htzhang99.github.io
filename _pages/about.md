@@ -54,7 +54,7 @@ My research interests include:
 # 🏅 Honors and Awards
 - *2023.12* VCIP 2023 Grand Challenge Award (Image compression track) `First prize winner` `Haotian Zhang`, Feihong Mei, Junqi Liao.
 - *2022.12* VCIP 2022 Grand Challenge Award (Image compression performance track) `Second prize winner` `Haotian Zhang`, Junqi Liao, Shanshan Li, Yiheng Jiang, Zhaoyang Jia.
-- *2022.07* 3th National Artificial Intelligence Challenge. `Top-10 team` Xihua Sheng, `Haotian Zhang`, Runyu Yang, Changsheng Gao, Kang Liu.
+- *2022.07* 3rd National Artificial Intelligence Challenge. `Top-10 team` Xihua Sheng, `Haotian Zhang`, Runyu Yang, Changsheng Gao, Kang Liu.
 
 <span class='anchor' id='-std'></span>
 
