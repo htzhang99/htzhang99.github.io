@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Haotian Zhang (张昊田)"
+  name             : "Haotian Zhang"
   avatar           : "images/zht.jpg"
   bio              : "University of Science and Technology of China"
   location         : "Hefei, Anhui Province, China"

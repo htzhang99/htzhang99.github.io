@@ -60,21 +60,21 @@ My research interests include:
 
 # 💻 Standard Contributions
 ## IEEE 1857.11
-- *2021.12~* Serve as a software coordinator of IEEE 1857.11
+- *2021.12 - now* Serves as a software coordinator of IEEE 1857.11.
 #### Accepted proposals
-- CE5: Entropy codec engine convergence. Tianyu Zhang, Zhirui Zuo, `Haotian Zhang`, Junqi Liao, Feihong Mei, Li Li, Dong Liu.
-- Match the reference software with WD: decoupling parsing and reconstruction process in iWave. Bowei Kang, `Haotian Zhang`, Cunhui Dong, Li Li, Dong Liu.
-- Response to the Call for Proposals on Neural Network-Based Image Coding by Team DwOTeo. Haichuan Ma, Cunhui Dong, Huairui Wang, `Haotian Zhang`, Zhe Zhang, Han Zhu, Ding Ding, Li Li, Xiaozhong Xu, Shan Liu, Zhenzhong Chen, Dong Liu.
-- Suggestions on modifying the configuration of the anchor NIC. `Haotian Zhang`, Jianping Lin, Dong Liu.
-- Algorithm description of VR-models for NIC-0.3 and NIC-0.4. `Haotian Zhang`, Jianping Lin, Li Li, Dong Liu.
-- Algorithm Discription of NIC-0.2 using 3 Variable-Rate NIC Models. Jianping Lin, `Haotian Zhang`, Dong Liu.
-- Algorithm Discription of Variable-Rate NIC Model. Jianping Lin, `Haotian Zhang`, Dong Liu.
+- Tianyu Zhang, Zhirui Zuo, **Haotian Zhang**, Junqi Liao, Feihong Mei, Li Li, Dong Liu. 2023. CE5: Entropy codec engine convergence. Tech. Rep. VC-46-M407.
+- Bowei Kang, **Haotian Zhang**, Cunhui Dong, Li Li, Dong Liu. 2023. Match the reference software with WD: decoupling parsing and reconstruction process in iWave. Tech. Rep. VC-44-M393.
+- Haichuan Ma, Cunhui Dong, Huairui Wang, **Haotian Zhang**, Zhe Zhang, Han Zhu, Ding Ding, Li Li, Xiaozhong Xu, Shan Liu, Zhenzhong Chen, Dong Liu. 2022. Response to the Call for Proposals on Neural Network-Based Image Coding by Team DwOTeo. Tech. Rep. VC-38-M326.
+- **Haotian Zhang**, Jianping Lin, Dong Liu. 2021. Suggestions on modifying the configuration of the anchor NIC. Tech. Rep. VC-36-M315.
+- **Haotian Zhang**, Jianping Lin, Li Li, Dong Liu. 2021. Algorithm description of VR-models for NIC-0.3 and NIC-0.4. Tech. Rep. VC-36-M314.
+- Jianping Lin, **Haotian Zhang**, Dong Liu. 2021. Algorithm Discription of NIC-0.2 using 3 Variable-Rate NIC Models. Tech. Rep. VC-34-M290.
+- Jianping Lin, **Haotian Zhang**, Dong Liu. 2021. Algorithm Discription of Variable-Rate NIC Model. Tech. Rep. VC-33-M280.
 #### Other proposals
-- Entropy coding acceleration for iWave. Yiheng Jiang, `Haotian Zhang`, Cunhui Dong, Li Li, Dong Liu.
-- Entropy codec engine convergence. `Haotian Zhang`, Feihong Mei, Li Li, Dong Liu.
-- Draft of algorithm description for iWave and test model 1.0. `Haotian Zhang`, Qiang Li, Cunhui Dong, Li Li, Dong Liu.
-- An Image-to-prior Structure for Learned Image Compression. `Haotian Zhang`, Dong Liu.
-- Suggestions on the standardization scope of neural network-based image coding standard. Haichuan Ma, `Haotian Zhang`, Li Li, Dong Liu.
-- Rate control for NIC-0.4 through R-λ model. `Haotian Zhang`, Jianping Lin, Li Li, Dong Liu.
+- Yiheng Jiang, **Haotian Zhang**, Cunhui Dong, Li Li, Dong Liu. 2023. Entropy coding acceleration for iWave. Tech. Rep. VC-44-M394.
+- **Haotian Zhang**, Feihong Mei, Li Li, Dong Liu. 2023. Entropy codec engine convergence. Tech. Rep. VC-44-M392.
+- **Haotian Zhang**, Qiang Li, Cunhui Dong, Li Li, Dong Liu. 2022. Draft of algorithm description for iWave and test model 1.0. Tech. Rep. VC-39-M353.
+- **Haotian Zhang**, Dong Liu. 2022. An Image-to-prior Structure for Learned Image Compression. Tech. Rep. VC-38-M345.
+- Haichuan Ma, **Haotian Zhang**, Li Li, Dong Liu. 2021. Suggestions on the standardization scope of neural network-based image coding standard.  Tech. Rep. VC-36-M312.
+- **Haotian Zhang**, Jianping Lin, Li Li, Dong Liu. 2021. Rate control for NIC-0.4 through R-λ model. Tech. Rep. VC-36-M314.
 
 
