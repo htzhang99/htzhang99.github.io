@@ -17,44 +17,44 @@ redirect_from:
 
 <span class='anchor' id='-abo'></span>
 
-My name is Haotian Zhang (张昊田). I am studying for my PhD in the School of Information Science and Technology at the University of Science and Technology of China (USTC) in Hefei, Anhui Province. My supervisor is Professor Dong Liu (刘东).
+My name is Haotian Zhang. I am pursuing a PhD degree in the <a href="https://ustc-ivclab.github.io/">Intelligent Visual Data Coding Laboratory</a> at the University of Science and Technology of China (USTC). My supervisor is Professor Dong Liu.
 
 My research interests include:
 - Image/Video compression
-- Computer vision
 - Machine learning
+- Computer vision
   
-
 <span class='anchor' id='-edu'></span>
 
 # 🎓 Educations
-- *2017.09 - 2021.06*, Undergraduate, <a href="https://www.ustc.edu.cn/"><img class="svg" src="/images/USTC_logo.png" width="23pt"></a> University of Science and Technology of China (USTC), School of Information Science and Technology, Hefei.
-- *2021.09 - Now*, PhD. candidate, <a href="https://www.ustc.edu.cn/"><img class="svg" src="/images/USTC_logo.png" width="23pt"></a> University of Science and Technology of China (USTC), School of Information Science and Technology, Hefei.
+- *2017.09 - 2021.06*, Undergraduate, <a href="https://www.ustc.edu.cn/"><img class="svg" src="/images/USTC_logo.png" width="23pt"></a> University of Science and Technology of China, School of Information Science and Technology.
+- *2021.09 - Now*, PhD candidate, <a href="https://www.ustc.edu.cn/"><img class="svg" src="/images/USTC_logo.png" width="23pt"></a> University of Science and Technology of China, Department of Electronic Engineering and Information Science.
  
 <span class='anchor' id='-pub'></span>
 
 # 📝 Publications
 ---
-- Practical Learned Image Compression with Online Encoder Optimization. `Haotian Zhang`, Feihong Mei, Junqi Liao, Li Li, Houqiang Li, Dong Liu. *PCS*, 2024 
+- **Haotian Zhang**, Feihong Mei, Junqi Liao, Li Li, Houqiang Li, Dong Liu. Practical Learned Image Compression with Online Encoder Optimization.  Picture Coding Symposium (PCS), 2024.
 
-- On Uniform Scalar Quantization for Learned Image Compression. `Haotian Zhang`, Li Li, Dong Liu. *arxiv*, 2023
+- **Haotian Zhang**, Li Li, Dong Liu. On Uniform Scalar Quantization for Learned Image Compression. Arxiv, 2023. 
 
-- Padding-Aware Learned Image Compression. `Haotian Zhang`, Junqi Liao, Yiheng Jiang, Li Li, Dong Liu. *2023 IEEE International Symposium on Circuits and Systems (ISCAS)*, 2023  
+- **Haotian Zhang**, Junqi Liao, Yiheng Jiang, Li Li, Dong Liu. Padding-Aware Learned Image Compression. International Symposium on Circuits and Systems (ISCAS), 2023.
 
-- Towards Hybrid-optimization Video Coding. Shuai Huo, Dong Liu, `Haotian Zhang`, Li Li, Siwei Ma, Feng Wu, Wen Gao. *ACM Computing Surveys*, 2024
+- Yuqi Li, **Haotian Zhang**, Dong Liu. Flexible Coding Order for Learned Image Compression. International Conference on Visual Communications and Image Processing (VCIP), 2023. 
 
-- Wavelet-Like Transform-Based Technology in Response to the Call for Proposals on Neural Network-Based Image Coding. Cunhui Dong, Haichuan Ma, `Haotian Zhang`, Changsheng Gao, Li Li, Dong Liu. *arxiv*, 2024
+- Chuanbo Tang, Xihua Sheng, Zhuoyuan Li, **Haotian Zhang**, Li Li, Dong Liu. Offline and Online Optical Flow Enhancement for Deep Video Compression.  AAAI Conference on Artificial Intelligence (AAAI), 2024.
 
-- Offline and Online Optical Flow Enhancement for Deep Video Compression. Chuanbo Tang, Xihua Sheng, Zhuoyuan Li, `Haotian Zhang`, Li Li, Dong Liu. *2024 AAAI Conference on Artificial Intelligence*, 2024
+- Shuai Huo, Dong Liu, **Haotian Zhang**, Li Li, Siwei Ma, Feng Wu, Wen Gao. Towards Hybrid-optimization Video Coding.  ACM Computing Surveys, 2024.
 
-- Flexible Coding Order for Learned Image Compression. Yuqi Li, `Haotian Zhang`, Dong Liu. *2023 IEEE International Conference on Visual Communications and Image Processing (VCIP)*, 2023  
+- Cunhui Dong, Haichuan Ma, **Haotian Zhang**, Changsheng Gao, Li Li, Dong Liu. Wavelet-Like Transform-Based Technology in Response to the Call for Proposals on Neural Network-Based Image Coding. Arxiv, 2024.
+
 
 <span class='anchor' id='-hon'></span>
 
 # 🏅 Honors and Awards
-- *2023.12* VCIP 2023 Grand Challenge Award (Image compression track) `First prize winner` `Haotian Zhang`, Feihong Mei, Junqi Liao.
-- *2022.12* VCIP 2022 Grand Challenge Award (Image compression performance track) `Second prize winner` `Haotian Zhang`, Junqi Liao, Shanshan Li, Yiheng Jiang, Zhaoyang Jia.
-- *2022.07* 3rd National Artificial Intelligence Challenge. `Top-10 team` Xihua Sheng, `Haotian Zhang`, Runyu Yang, Changsheng Gao, Kang Liu.
+- *2023.12* **Haotian Zhang**, Feihong Mei, Junqi Liao. VCIP 2023 Grand Challenge Award (Image compression track) **First prize winner**.
+- *2022.12* **Haotian Zhang**, Junqi Liao, Shanshan Li, Yiheng Jiang, Zhaoyang Jia. VCIP 2022 Grand Challenge Award (Image compression performance track) **Second prize winner**.
+- *2022.07* Xihua Sheng, **Haotian Zhang**, Runyu Yang, Changsheng Gao, Kang Liu. 3rd National Artificial Intelligence Challenge (Feature compression track) **Top-10 team**. 
 
 <span class='anchor' id='-std'></span>
 

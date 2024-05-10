@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Haotian Zhang (张昊田)"
+title                    : "Haotian Zhang"
 description              : "PhD candidate in image and video coding"
 repository               : "htzhang99/htzhang99.github.io"
 google_scholar_stats_use_cdn : false
@@ -24,10 +24,10 @@ author:
   name             : "Haotian Zhang (张昊田)"
   avatar           : "images/zht.jpg"
   bio              : "University of Science and Technology of China"
-  location         : "Hefei, Anhui Province"
+  location         : "Hefei, Anhui Province, China"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
-  googlescholar    : #"https://scholar.google.com/citations?user=KTPKjcIAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=7fS32hcAAAAJ&hl=zh-CN&oi=ao"
   email            : "zhanghaotian@ustc.mail.edu.cn"
   researchgate     : #"https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : 
