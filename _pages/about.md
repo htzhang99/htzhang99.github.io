@@ -28,12 +28,13 @@ My research interests include:
 
 # 🎓 Educations
 - *2017.09 - 2021.06*, Undergraduate, <a href="https://www.ustc.edu.cn/"><img class="svg" src="/images/USTC_logo.png" width="23pt"></a> University of Science and Technology of China, School of Information Science and Technology.
-- *2021.09 - Now*, PhD candidate, <a href="https://www.ustc.edu.cn/"><img class="svg" src="/images/USTC_logo.png" width="23pt"></a> University of Science and Technology of China, Department of Electronic Engineering and Information Science.
+- *2021.09 - 2023.07*, Master student, <a href="https://www.ustc.edu.cn/"><img class="svg" src="/images/USTC_logo.png" width="23pt"></a> University of Science and Technology of China, Department of Electronic Engineering and Information Science.
+- *2023.08 - Now*, PhD student, <a href="https://www.ustc.edu.cn/"><img class="svg" src="/images/USTC_logo.png" width="23pt"></a> University of Science and Technology of China, Department of Electronic Engineering and Information Science.
  
 <span class='anchor' id='-pub'></span>
 
 # 📝 Publications
----
+
 - **Haotian Zhang**, Feihong Mei, Junqi Liao, Li Li, Houqiang Li, Dong Liu. Practical Learned Image Compression with Online Encoder Optimization.  Picture Coding Symposium (PCS), 2024.
 
 - **Haotian Zhang**, Li Li, Dong Liu. On Uniform Scalar Quantization for Learned Image Compression. Arxiv, 2023. 
@@ -48,14 +49,6 @@ My research interests include:
 
 - Cunhui Dong, Haichuan Ma, **Haotian Zhang**, Changsheng Gao, Li Li, Dong Liu. Wavelet-Like Transform-Based Technology in Response to the Call for Proposals on Neural Network-Based Image Coding. Arxiv, 2024.
 
-
-<span class='anchor' id='-hon'></span>
-
-# 🏅 Honors and Awards
-- *2023.12* **Haotian Zhang**, Feihong Mei, Junqi Liao. VCIP 2023 Grand Challenge Award (Image compression track) **First prize winner**.
-- *2022.12* **Haotian Zhang**, Junqi Liao, Shanshan Li, Yiheng Jiang, Zhaoyang Jia. VCIP 2022 Grand Challenge Award (Image compression performance track) **Second prize winner**.
-- *2022.07* Xihua Sheng, **Haotian Zhang**, Runyu Yang, Changsheng Gao, Kang Liu. 3rd National Artificial Intelligence Challenge (Feature compression track) **Top-10 team**. 
-
 <span class='anchor' id='-std'></span>
 
 # 💻 Standard Contributions
@@ -66,7 +59,7 @@ My research interests include:
 - Bowei Kang, **Haotian Zhang**, Cunhui Dong, Li Li, Dong Liu. 2023. Match the reference software with WD: decoupling parsing and reconstruction process in iWave. Tech. Rep. VC-44-M393.
 - Haichuan Ma, Cunhui Dong, Huairui Wang, **Haotian Zhang**, Zhe Zhang, Han Zhu, Ding Ding, Li Li, Xiaozhong Xu, Shan Liu, Zhenzhong Chen, Dong Liu. 2022. Response to the Call for Proposals on Neural Network-Based Image Coding by Team DwOTeo. Tech. Rep. VC-38-M326.
 - **Haotian Zhang**, Jianping Lin, Dong Liu. 2021. Suggestions on modifying the configuration of the anchor NIC. Tech. Rep. VC-36-M315.
-- **Haotian Zhang**, Jianping Lin, Li Li, Dong Liu. 2021. Algorithm description of VR-models for NIC-0.3 and NIC-0.4. Tech. Rep. VC-36-M314.
+- **Haotian Zhang**, Jianping Lin, Li Li, Dong Liu. 2021. Algorithm description of VR-models for NIC-0.3 and NIC-0.4. Tech. Rep. VC-36-M313.
 - Jianping Lin, **Haotian Zhang**, Dong Liu. 2021. Algorithm Discription of NIC-0.2 using 3 Variable-Rate NIC Models. Tech. Rep. VC-34-M290.
 - Jianping Lin, **Haotian Zhang**, Dong Liu. 2021. Algorithm Discription of Variable-Rate NIC Model. Tech. Rep. VC-33-M280.
 #### Other proposals
@@ -76,5 +69,22 @@ My research interests include:
 - **Haotian Zhang**, Dong Liu. 2022. An Image-to-prior Structure for Learned Image Compression. Tech. Rep. VC-38-M345.
 - Haichuan Ma, **Haotian Zhang**, Li Li, Dong Liu. 2021. Suggestions on the standardization scope of neural network-based image coding standard.  Tech. Rep. VC-36-M312.
 - **Haotian Zhang**, Jianping Lin, Li Li, Dong Liu. 2021. Rate control for NIC-0.4 through R-λ model. Tech. Rep. VC-36-M314.
+
+<span class='anchor' id='-cha'></span>
+
+# 🏅 Challenge Awards
+- *2023.12* **Haotian Zhang**, Feihong Mei, Junqi Liao. VCIP 2023 Grand Challenge Award (Image compression track) **First prize winner**.
+- *2022.12* **Haotian Zhang**, Junqi Liao, Shanshan Li, Yiheng Jiang, Zhaoyang Jia. VCIP 2022 Grand Challenge Award (Image compression performance track) **Second prize winner**.
+- *2022.07* Xihua Sheng, **Haotian Zhang**, Runyu Yang, Changsheng Gao, Kang Liu. 3rd National Artificial Intelligence Challenge (Feature compression track) **Top-10 team**. 
+
+<span class='anchor' id='-hon'></span>
+
+# 🏅 Honors
+- Outstanding Graduate of Anhui province, 2021.
+- Outstanding Graduate of University of Science and Technology of China, 2021.
+
+
+
+
 
 

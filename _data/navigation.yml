@@ -9,8 +9,13 @@ main:
   - title: "Publications"
     url: "/#-pub"
 
-  - title: "Honors and Awards"
-    url: "#-hon"
-
   - title: "Standard Contributions"
     url: "/#-std"
+
+  - title: "Challenge Awards"
+    url: "#-cha"
+    
+  - title: "Honors"
+    url: "#-hon"
+
+
