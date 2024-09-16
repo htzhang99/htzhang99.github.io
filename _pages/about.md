@@ -60,8 +60,8 @@ My research interests include:
 - Haichuan Ma, Cunhui Dong, Huairui Wang, **Haotian Zhang**, Zhe Zhang, Han Zhu, Ding Ding, Li Li, Xiaozhong Xu, Shan Liu, Zhenzhong Chen, Dong Liu. 2022. Response to the Call for Proposals on Neural Network-Based Image Coding by Team DwOTeo. Tech. Rep. VC-38-M326.
 - **Haotian Zhang**, Jianping Lin, Dong Liu. 2021. Suggestions on modifying the configuration of the anchor NIC. Tech. Rep. VC-36-M315.
 - **Haotian Zhang**, Jianping Lin, Li Li, Dong Liu. 2021. Algorithm description of VR-models for NIC-0.3 and NIC-0.4. Tech. Rep. VC-36-M313.
-- Jianping Lin, **Haotian Zhang**, Dong Liu. 2021. Algorithm Discription of NIC-0.2 using 3 Variable-Rate NIC Models. Tech. Rep. VC-34-M290.
-- Jianping Lin, **Haotian Zhang**, Dong Liu. 2021. Algorithm Discription of Variable-Rate NIC Model. Tech. Rep. VC-33-M280.
+- Jianping Lin, **Haotian Zhang**, Dong Liu. 2021. Algorithm Description of NIC-0.2 using 3 Variable-Rate NIC Models. Tech. Rep. VC-34-M290.
+- Jianping Lin, **Haotian Zhang**, Dong Liu. 2021. Algorithm Description of Variable-Rate NIC Model. Tech. Rep. VC-33-M280.
 #### Other proposals
 - Yiheng Jiang, **Haotian Zhang**, Cunhui Dong, Li Li, Dong Liu. 2023. Entropy coding acceleration for iWave. Tech. Rep. VC-44-M394.
 - **Haotian Zhang**, Feihong Mei, Li Li, Dong Liu. 2023. Entropy codec engine convergence. Tech. Rep. VC-44-M392.
