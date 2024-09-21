@@ -43,7 +43,13 @@ My research interests include:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Quant.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 - **Haotian Zhang**, Li Li, Dong Liu. On Uniform Scalar Quantization for Learned Image Compression. Arxiv, 2023. [[url]](https://arxiv.org/pdf/2309.17051)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2023</div><img src='images/ISCAS2023.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
