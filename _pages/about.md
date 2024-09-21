@@ -37,13 +37,21 @@ My research interests include:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PCS 2024</div><img src='images/PCS2024.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 - **Haotian Zhang**, Feihong Mei, Junqi Liao, Li Li, Houqiang Li, Dong Liu. Practical Learned Image Compression with Online Encoder Optimization.  Picture Coding Symposium (PCS), 2024. [[url]](https://ieeexplore.ieee.org/abstract/document/10566341)
+
+</div>
+</div>
 
 - **Haotian Zhang**, Li Li, Dong Liu. On Uniform Scalar Quantization for Learned Image Compression. Arxiv, 2023. [[url]](https://arxiv.org/pdf/2309.17051)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2023</div><img src='images/ISCAS2023.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 - **Haotian Zhang**, Junqi Liao, Yiheng Jiang, Li Li, Dong Liu. Padding-Aware Learned Image Compression. International Symposium on Circuits and Systems (ISCAS), 2023. [[url]](https://ieeexplore.ieee.org/abstract/document/10181476)
+
+</div>
+</div>
 
 - Yuqi Li, **Haotian Zhang**, Dong Liu. Flexible Coding Order for Learned Image Compression. International Conference on Visual Communications and Image Processing (VCIP), 2023. [[url]](https://ieeexplore.ieee.org/abstract/document/10402631)
 
