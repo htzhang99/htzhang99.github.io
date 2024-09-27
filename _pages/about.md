@@ -65,6 +65,8 @@ My recent research focuses on:
 
 - Yuqi Li, **Haotian Zhang**, Dong Liu. Flexible Coding Order for Learned Image Compression. International Conference on Visual Communications and Image Processing (VCIP), 2023. [[url]](https://ieeexplore.ieee.org/abstract/document/10402631)
 
+- Yuqi Li, **Haotian Zhang**, Xiaomin Song, Zheng Liu, Huiming Zheng, Li Li, Dong Liu. Deviation Control for Learned Image Compression. International Conference on Visual Communications and Image Processing (VCIP), 2024.
+
 - Chuanbo Tang, Xihua Sheng, Zhuoyuan Li, **Haotian Zhang**, Li Li, Dong Liu. Offline and Online Optical Flow Enhancement for Deep Video Compression.  AAAI Conference on Artificial Intelligence (AAAI), 2024. [[url]](https://ojs.aaai.org/index.php/AAAI/article/view/28317)
 
 - Zhuoyuan Li, Junqi Liao, Chuanbo Tang, **Haotian Zhang**, Yuqi Li, Yifan Bian, Xihua Sheng, Xinmin Feng, Yao Li, Changsheng Gao, Li Li, Dong Liu, Feng Wu. USTC-TD: A Test Dataset and Benchmark for Image and Video Coding in 2020s. Arxiv, 2024. [[url]](https://arxiv.org/abs/2409.08481)
