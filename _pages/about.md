@@ -63,9 +63,9 @@ My recent research focuses on:
 </div>
 </div>
 
-- Yuqi Li, **Haotian Zhang**, Dong Liu. Flexible Coding Order for Learned Image Compression. International Conference on Visual Communications and Image Processing (VCIP), 2023. [[url]](https://ieeexplore.ieee.org/abstract/document/10402631)
-
 - Yuqi Li, **Haotian Zhang**, Xiaomin Song, Zheng Liu, Huiming Zheng, Li Li, Dong Liu. Deviation Control for Learned Image Compression. International Conference on Visual Communications and Image Processing (VCIP), 2024.
+
+- Yuqi Li, **Haotian Zhang**, Dong Liu. Flexible Coding Order for Learned Image Compression. International Conference on Visual Communications and Image Processing (VCIP), 2023. [[url]](https://ieeexplore.ieee.org/abstract/document/10402631)
 
 - Chuanbo Tang, Xihua Sheng, Zhuoyuan Li, **Haotian Zhang**, Li Li, Dong Liu. Offline and Online Optical Flow Enhancement for Deep Video Compression.  AAAI Conference on Artificial Intelligence (AAAI), 2024. [[url]](https://ojs.aaai.org/index.php/AAAI/article/view/28317)
 
@@ -89,6 +89,7 @@ My recent research focuses on:
 - Jianping Lin, **Haotian Zhang**, Dong Liu. 2021. Algorithm Description of NIC-0.2 using 3 Variable-Rate NIC Models. Tech. Rep. VC-34-M290.
 - Jianping Lin, **Haotian Zhang**, Dong Liu. 2021. Algorithm Description of Variable-Rate NIC Model. Tech. Rep. VC-33-M280.
 #### Other proposals
+- Yutao Xie, Rui Mao, Bowei Kang, **Haotian Zhang**, Li Li, Dong Liu, Xiaoyan Sun. 2024. Match the reference software with WD: entropy model quantization for iWave. Tech. Rep. VC-53-M463.
 - Yiheng Jiang, **Haotian Zhang**, Cunhui Dong, Li Li, Dong Liu. 2023. Entropy coding acceleration for iWave. Tech. Rep. VC-44-M394.
 - **Haotian Zhang**, Feihong Mei, Li Li, Dong Liu. 2023. Entropy codec engine convergence. Tech. Rep. VC-44-M392.
 - **Haotian Zhang**, Qiang Li, Cunhui Dong, Li Li, Dong Liu. 2022. Draft of algorithm description for iWave and test model 1.0. Tech. Rep. VC-39-M353.
