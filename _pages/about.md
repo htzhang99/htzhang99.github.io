@@ -100,7 +100,7 @@ My recent research focuses on:
 <span class='anchor' id='-cha'></span>
 
 # 🏅 Challenge Awards
-- *2024.09* MMSP 2024 Grand Challenge Image compression (track 1) winner & Image compression (track 2) winner & Video compression (track 1) winner.
+- *2024.10* MMSP 2024 Grand Challenge Image compression (track 1) winner & Image compression (track 2) winner & Video compression (track 1) winner.
 - *2023.12* **Haotian Zhang**, Feihong Mei, Junqi Liao. VCIP 2023 Grand Challenge Award (Image compression track) **First prize winner**.
 - *2022.12* **Haotian Zhang**, Junqi Liao, Shanshan Li, Yiheng Jiang, Zhaoyang Jia. VCIP 2022 Grand Challenge Award (Image compression performance track) **Second prize winner**.
 - *2022.07* Xihua Sheng, **Haotian Zhang**, Runyu Yang, Changsheng Gao, Kang Liu. 3rd National Artificial Intelligence Challenge (Feature compression track) **Top-10 team**. 
