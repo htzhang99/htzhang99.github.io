@@ -81,6 +81,8 @@ My recent research focuses on:
 ## IEEE 1857.11
 - *2021.12 - now* Serves as a software coordinator of IEEE 1857.11.
 #### Adopted proposals
+- Rui Mao,Yutao Xie, Bowei Kang, **Haotian Zhang**, Li Li, Dong Liu, Xiaoyan Sun. 2024. Match the reference software with WD: lossy entropy model quantization for iWave. VC-54-M471.
+- Yutao Xie, Rui Mao, Bowei Kang, **Haotian Zhang**, Li Li, Dong Liu and Xiaoyan Sun. 2024. Match the reference software with WD: lossless entropy model quantization for iWave. VC-54-M472.
 - Tianyu Zhang, Zhirui Zuo, **Haotian Zhang**, Junqi Liao, Feihong Mei, Li Li, Dong Liu. 2023. CE5: Entropy codec engine convergence. Tech. Rep. VC-46-M407.
 - Bowei Kang, **Haotian Zhang**, Cunhui Dong, Li Li, Dong Liu. 2023. Match the reference software with WD: decoupling parsing and reconstruction process in iWave. Tech. Rep. VC-44-M393.
 - Haichuan Ma, Cunhui Dong, Huairui Wang, **Haotian Zhang**, Zhe Zhang, Han Zhu, Ding Ding, Li Li, Xiaozhong Xu, Shan Liu, Zhenzhong Chen, Dong Liu. 2022. Response to the Call for Proposals on Neural Network-Based Image Coding by Team DwOTeo. Tech. Rep. VC-38-M326.
@@ -89,6 +91,7 @@ My recent research focuses on:
 - Jianping Lin, **Haotian Zhang**, Dong Liu. 2021. Algorithm Description of NIC-0.2 using 3 Variable-Rate NIC Models. Tech. Rep. VC-34-M290.
 - Jianping Lin, **Haotian Zhang**, Dong Liu. 2021. Algorithm Description of Variable-Rate NIC Model. Tech. Rep. VC-33-M280.
 #### Other proposals
+- **Haotian Zhang**, Yuqi Li, Li Li, Dong Liu. 2024. Explorative study of large-scale models for end-to-end image coding. VC-54-M473.
 - Yutao Xie, Rui Mao, Bowei Kang, **Haotian Zhang**, Li Li, Dong Liu, Xiaoyan Sun. 2024. Match the reference software with WD: entropy model quantization for iWave. Tech. Rep. VC-53-M463.
 - Yiheng Jiang, **Haotian Zhang**, Cunhui Dong, Li Li, Dong Liu. 2023. Entropy coding acceleration for iWave. Tech. Rep. VC-44-M394.
 - **Haotian Zhang**, Feihong Mei, Li Li, Dong Liu. 2023. Entropy codec engine convergence. Tech. Rep. VC-44-M392.
