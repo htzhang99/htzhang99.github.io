@@ -82,7 +82,7 @@ My recent research focuses on:
 - *2021.12 - now* Serves as a software coordinator of IEEE 1857.11.
 #### Adopted proposals
 - Rui Mao, Yutao Xie, Bowei Kang, **Haotian Zhang**, Li Li, Dong Liu, Xiaoyan Sun. 2024. Match the reference software with WD: lossy entropy model quantization for iWave. Tech. Rep. VC-54-M471.
-- Yutao Xie, Rui Mao, Bowei Kang, **Haotian Zhang**, Li Li, Dong Liu, Xiaoyan Sun. 2024. Match the reference software with WD: lossless entropy model quantization for iWave. VC-54-M472.
+- Yutao Xie, Rui Mao, Bowei Kang, **Haotian Zhang**, Li Li, Dong Liu, Xiaoyan Sun. 2024. Match the reference software with WD: lossless entropy model quantization for iWave. Tech. Rep. VC-54-M472.
 - Tianyu Zhang, Zhirui Zuo, **Haotian Zhang**, Junqi Liao, Feihong Mei, Li Li, Dong Liu. 2023. CE5: Entropy codec engine convergence. Tech. Rep. VC-46-M407.
 - Bowei Kang, **Haotian Zhang**, Cunhui Dong, Li Li, Dong Liu. 2023. Match the reference software with WD: decoupling parsing and reconstruction process in iWave. Tech. Rep. VC-44-M393.
 - Haichuan Ma, Cunhui Dong, Huairui Wang, **Haotian Zhang**, Zhe Zhang, Han Zhu, Ding Ding, Li Li, Xiaozhong Xu, Shan Liu, Zhenzhong Chen, Dong Liu. 2022. Response to the Call for Proposals on Neural Network-Based Image Coding by Team DwOTeo. Tech. Rep. VC-38-M326.
