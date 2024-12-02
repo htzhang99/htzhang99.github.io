@@ -39,10 +39,18 @@ My recent research focuses on:
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ggm.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- **Haotian Zhang**, Li Li, Dong Liu. Generalized Gaussian Model for Learned Image Compression. Arxiv, 2024. [[url]](https://arxiv.org/pdf/2411.19320)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PCS 2024</div><img src='images/PCS2024.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **Haotian Zhang**, Feihong Mei, Junqi Liao, Li Li, Houqiang Li, Dong Liu. Practical Learned Image Compression with Online Encoder Optimization.  Picture Coding Symposium (PCS), 2024. [[url]](https://ieeexplore.ieee.org/abstract/document/10566341)
+- **Haotian Zhang**, Feihong Mei, Junqi Liao, Li Li, Houqiang Li, Dong Liu. Practical Learned Image Compression with Online Encoder Optimization. Picture Coding Symposium (PCS), 2024. [[url]](https://ieeexplore.ieee.org/abstract/document/10566341)
 
 </div>
 </div>
