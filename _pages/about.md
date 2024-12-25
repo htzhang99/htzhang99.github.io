@@ -71,6 +71,8 @@ My recent research focuses on:
 </div>
 </div>
 
+- Yiheng Jiang, **Haotian Zhang**, Li Li, Dong Liu, Zhu Li. Sparse Point Clouds Assisted Learned Image Compression. Arxiv, 2024. [[url]](https://arxiv.org/abs/2412.15752)
+
 - Yuqi Li, **Haotian Zhang**, Xiaomin Song, Zheng Liu, Huiming Zheng, Li Li, Dong Liu. Deviation Control for Learned Image Compression. International Conference on Visual Communications and Image Processing (VCIP), 2024.
 
 - Yuqi Li, **Haotian Zhang**, Dong Liu. Flexible Coding Order for Learned Image Compression. International Conference on Visual Communications and Image Processing (VCIP), 2023. [[url]](https://ieeexplore.ieee.org/abstract/document/10402631)
