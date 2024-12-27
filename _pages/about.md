@@ -25,7 +25,7 @@ My research interests include:
 - Computer vision
 
 My recent research focuses on:
-- Optimization for quantization in learned image compression
+- End-to-end optimization techniques for learned image compression
 - Practical learned image compression system
   
 <span class='anchor' id='-edu'></span>
