@@ -39,6 +39,11 @@ My recent research focuses on:
 
 # 📝 Publications
 
+- **Haotian Zhang**, Dong Liu. The Gap Between Principle and Practice of Lossy Image Coding. Arxiv, 2025. [[url]](https://arxiv.org/pdf/2501.12330)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ggm.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -71,7 +76,7 @@ My recent research focuses on:
 </div>
 </div>
 
-- Yiheng Jiang, **Haotian Zhang**, Li Li, Dong Liu, Zhu Li. Sparse Point Clouds Assisted Learned Image Compression. Arxiv, 2024. [[url]](https://arxiv.org/abs/2412.15752)
+- Yiheng Jiang, **Haotian Zhang**, Li Li, Dong Liu, Zhu Li. Sparse Point Clouds Assisted Learned Image Compression. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024. [[url]](https://ieeexplore.ieee.org/document/10816198)
 
 - Yuqi Li, **Haotian Zhang**, Xiaomin Song, Zheng Liu, Huiming Zheng, Li Li, Dong Liu. Deviation Control for Learned Image Compression. International Conference on Visual Communications and Image Processing (VCIP), 2024.
 
