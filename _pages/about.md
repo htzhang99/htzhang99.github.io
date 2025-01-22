@@ -41,8 +41,6 @@ My recent research focuses on:
 
 - **Haotian Zhang**, Dong Liu. The Gap Between Principle and Practice of Lossy Image Coding. Arxiv, 2025. [[url]](https://arxiv.org/pdf/2501.12330)
 
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ggm.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
