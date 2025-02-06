@@ -39,8 +39,13 @@ My recent research focuses on:
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/gap.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 - **Haotian Zhang**, Dong Liu. The Gap Between Principle and Practice of Lossy Image Coding. Arxiv, 2025. [[url]](https://arxiv.org/pdf/2501.12330)
 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ggm.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -86,7 +91,7 @@ My recent research focuses on:
 
 - Zhuoyuan Li, Junqi Liao, Chuanbo Tang, **Haotian Zhang**, Yuqi Li, Yifan Bian, Xihua Sheng, Xinmin Feng, Yao Li, Changsheng Gao, Li Li, Dong Liu, Feng Wu. USTC-TD: A Test Dataset and Benchmark for Image and Video Coding in 2020s. Arxiv, 2024. [[url]](https://arxiv.org/abs/2409.08481)
 
-- Shuai Huo, Dong Liu, **Haotian Zhang**, Li Li, Siwei Ma, Feng Wu, Wen Gao. Towards Hybrid-optimization Video Coding.  ACM Computing Surveys, 2024. [[url]](https://dl.acm.org/doi/abs/10.1145/3652148)
+- Shuai Huo, Dong Liu, **Haotian Zhang**, Li Li, Siwei Ma, Feng Wu, Wen Gao. Towards Hybrid-optimization Video Coding. ACM Computing Surveys, 2024. [[url]](https://dl.acm.org/doi/abs/10.1145/3652148)
 
 - Cunhui Dong, Haichuan Ma, **Haotian Zhang**, Changsheng Gao, Li Li, Dong Liu. Wavelet-Like Transform-Based Technology in Response to the Call for Proposals on Neural Network-Based Image Coding. Arxiv, 2024. [[url]](https://arxiv.org/abs/2403.05937)
 
