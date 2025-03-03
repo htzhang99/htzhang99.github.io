@@ -50,7 +50,7 @@ My recent research focuses on:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ggm.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **Haotian Zhang**, Li Li, Dong Liu. Generalized Gaussian Model for Learned Image Compression. Arxiv, 2024. [[url]](https://arxiv.org/pdf/2411.19320)
+- **Haotian Zhang**, Li Li, Dong Liu. Generalized Gaussian Model for Learned Image Compression. Accepted by IEEE Transactions on Image Processing (TIP), 2025. [[url]](https://arxiv.org/pdf/2411.19320)
 
 </div>
 </div>
@@ -83,7 +83,7 @@ My recent research focuses on:
 
 - Yuqi Li, **Haotian Zhang**, Xiaomin Song, Zheng Liu, Huiming Zheng, Li Li, Dong Liu. Deviation Control for Learned Image Compression. International Conference on Visual Communications and Image Processing (VCIP), 2024. [[url]](https://ieeexplore.ieee.org/abstract/document/10849925)
 
-- Tianyu Zhang, **Haotian Zhang**, Yuqi Li, Li Li, Dong Liu. Few-Shot Domain Adaptation for Learned Image Compression. Arxiv, 2024. [[url]](https://arxiv.org/abs/2409.11111) 
+- Tianyu Zhang, **Haotian Zhang**, Yuqi Li, Li Li, Dong Liu. Few-Shot Domain Adaptation for Learned Image Compression. Accepted by AAAI Conference on Artificial Intelligence (AAAI), 2025. [[url]](https://arxiv.org/abs/2409.11111) 
 
 - Yuqi Li, **Haotian Zhang**, Dong Liu. Flexible Coding Order for Learned Image Compression. International Conference on Visual Communications and Image Processing (VCIP), 2023. [[url]](https://ieeexplore.ieee.org/abstract/document/10402631)
 
