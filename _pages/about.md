@@ -47,7 +47,7 @@ My recent research focuses on:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ggm.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='images/ggm.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **Haotian Zhang**, Li Li, Dong Liu. Generalized Gaussian Model for Learned Image Compression. IEEE Transactions on Image Processing (TIP), 2025. [[url]](https://arxiv.org/pdf/2411.19320)[[url]](https://ieeexplore.ieee.org/document/10938038)
