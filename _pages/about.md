@@ -42,7 +42,7 @@ My recent research focuses on:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/switchp.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **Haotian Zhang**, Yuqi Li, Li Li, Dong Liu. Learning Switchable Priors for Neural Image Compression. Arxiv, 2025. [[url]](https://arxiv.org/abs/2504.16586)
+- **Haotian Zhang**, Yuqi Li, Li Li, Dong Liu. Learning Switchable Priors for Neural Image Compression. Accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025. [[url]](https://arxiv.org/abs/2504.16586)
 
 </div>
 </div>
