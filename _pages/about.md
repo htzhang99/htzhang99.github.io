@@ -97,7 +97,7 @@ My recent research focuses on:
 
 - Chuanbo Tang, Xihua Sheng, Zhuoyuan Li, **Haotian Zhang**, Li Li, Dong Liu. Offline and Online Optical Flow Enhancement for Deep Video Compression. AAAI Conference on Artificial Intelligence (AAAI), 2024. [[url]](https://ojs.aaai.org/index.php/AAAI/article/view/28317) [[url]](https://arxiv.org/abs/2307.05092)
 
-- Zhuoyuan Li, Junqi Liao, Chuanbo Tang, **Haotian Zhang**, Yuqi Li, Yifan Bian, Xihua Sheng, Xinmin Feng, Yao Li, Changsheng Gao, Li Li, Dong Liu, Feng Wu. USTC-TD: A Test Dataset and Benchmark for Image and Video Coding in 2020s. Arxiv, 2024. [[url]](https://arxiv.org/abs/2409.08481)
+- Zhuoyuan Li, Junqi Liao, Chuanbo Tang, **Haotian Zhang**, Yuqi Li, Yifan Bian, Xihua Sheng, Xinmin Feng, Yao Li, Changsheng Gao, Li Li, Dong Liu, Feng Wu. USTC-TD: A Test Dataset and Benchmark for Image and Video Coding in 2020s. IEEE Transactions on Multimedia (TMM), 2025. [[url]](https://arxiv.org/abs/2409.08481)
 
 - Shuai Huo, Dong Liu, **Haotian Zhang**, Li Li, Siwei Ma, Feng Wu, Wen Gao. Towards Hybrid-optimization Video Coding. ACM Computing Surveys, 2024. [[url]](https://dl.acm.org/doi/abs/10.1145/3652148)
 
@@ -131,6 +131,7 @@ My recent research focuses on:
 <span class='anchor' id='-cha'></span>
 
 # 🏅 Challenge Awards
+- *2025.04* Yiheng Jiang, Yuqi Li, Yifan Bian, **Haotian Zhang**. 5th National Artificial Intelligence Challenge (Image compression track) **Second prize**. 
 - *2024.10* MMSP 2024 Grand Challenge Image compression (track 1) winner & Image compression (track 2) winner & Video compression (track 1) winner.
 - *2023.12* **Haotian Zhang**, Feihong Mei, Junqi Liao. VCIP 2023 Grand Challenge Award (Image compression track) **First prize winner**.
 - *2022.12* **Haotian Zhang**, Junqi Liao, Shanshan Li, Yiheng Jiang, Zhaoyang Jia. VCIP 2022 Grand Challenge Award (Image compression performance track) **Second prize winner**.
