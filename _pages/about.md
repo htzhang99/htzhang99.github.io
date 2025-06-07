@@ -39,10 +39,10 @@ My recent research focuses on:
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/switchp.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/switchp.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **Haotian Zhang**, Yuqi Li, Li Li, Dong Liu. Learning Switchable Priors for Neural Image Compression. Accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025. [[url]](https://arxiv.org/abs/2504.16586)
+- **Haotian Zhang**, Yuqi Li, Li Li, Dong Liu. Learning Switchable Priors for Neural Image Compression. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025. [[url]](https://ieeexplore.ieee.org/document/11027134) [[url]](https://arxiv.org/abs/2504.16586)
 
 </div>
 </div>
@@ -107,7 +107,7 @@ My recent research focuses on:
 
 # 💻 Standard Contributions
 ## IEEE 1857.11
-- *2021.12 - now* Serves as a software coordinator of IEEE 1857.11.
+- *2021.12 - 2024.12* Serves as a software coordinator of IEEE 1857.11.
 #### Adopted proposals
 - Rui Mao, Yutao Xie, Bowei Kang, **Haotian Zhang**, Li Li, Dong Liu, Xiaoyan Sun. 2024. Match the reference software with WD: lossy entropy model quantization for iWave. Tech. Rep. VC-54-M471.
 - Yutao Xie, Rui Mao, Bowei Kang, **Haotian Zhang**, Li Li, Dong Liu, Xiaoyan Sun. 2024. Match the reference software with WD: lossless entropy model quantization for iWave. Tech. Rep. VC-54-M472.
@@ -131,7 +131,7 @@ My recent research focuses on:
 <span class='anchor' id='-cha'></span>
 
 # 🏅 Challenge Awards
-- *2025.04* Yiheng Jiang, Yuqi Li, Yifan Bian, **Haotian Zhang**. 5th National Artificial Intelligence Challenge (Image compression track) **Second prize**. 
+- *2025.04* Yiheng Jiang, Yuqi Li, Yifan Bian, **Haotian Zhang**. 5th National Artificial Intelligence Challenge (Image compression track) **Second prize winner**. 
 - *2024.10* MMSP 2024 Grand Challenge Image compression (track 1) winner & Image compression (track 2) winner & Video compression (track 1) winner.
 - *2023.12* **Haotian Zhang**, Feihong Mei, Junqi Liao. VCIP 2023 Grand Challenge Award (Image compression track) **First prize winner**.
 - *2022.12* **Haotian Zhang**, Junqi Liao, Shanshan Li, Yiheng Jiang, Zhaoyang Jia. VCIP 2022 Grand Challenge Award (Image compression performance track) **Second prize winner**.
