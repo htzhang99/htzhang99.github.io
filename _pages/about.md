@@ -39,10 +39,10 @@ My recent research focuses on:
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/switchp.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/hpcm.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Yuqi Li&ast, <strong>Haotian Zhang&ast</strong>, Li Li, Dong Liu. Learning Switchable Priors for Neural Image Compression. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025. [[url]](https://ieeexplore.ieee.org/document/11027134) [[url]](https://arxiv.org/abs/2504.16586)
+- Yuqi Li*, <strong>Haotian Zhang*</strong>, Li Li, Dong Liu. Learned Image Compression with Hierarchical Progressive Context Modeling. Accepted to International Conference on Computer Vision (ICCV), 2025. (*Eqaul contribution)
 
 </div>
 </div>
