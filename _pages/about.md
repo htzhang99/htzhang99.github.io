@@ -42,7 +42,7 @@ My recent research focuses on:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/hpcm.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Yuqi Li*, <strong>Haotian Zhang*</strong>, Li Li, Dong Liu. Learned Image Compression with Hierarchical Progressive Context Modeling. Accepted to International Conference on Computer Vision (ICCV), 2025. (*Eqaul contribution)
+- Yuqi Li&ast;, <strong>Haotian Zhang&ast;</strong>, Li Li, Dong Liu. Learned Image Compression with Hierarchical Progressive Context Modeling. Accepted to International Conference on Computer Vision (ICCV), 2025. (&ast;Eqaul contribution)
 
 </div>
 </div>
