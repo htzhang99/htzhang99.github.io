@@ -42,7 +42,7 @@ My recent research focuses on:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/hpcm.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Yuqi Li&#42;, <strong>Haotian Zhang&#42;</strong>, Li Li, Dong Liu. Learned Image Compression with Hierarchical Progressive Context Modeling. Accepted to International Conference on Computer Vision (ICCV), 2025. (&#42;Eqaul contribution)
+- Yuqi Li&#42;, <strong>Haotian Zhang&#42;</strong>, Li Li, Dong Liu. Learned Image Compression with Hierarchical Progressive Context Modeling. Accepted to International Conference on Computer Vision (ICCV), 2025. (&#42;Equal contribution)
 
 </div>
 </div>
@@ -105,7 +105,7 @@ My recent research focuses on:
 
 - Chuanbo Tang, Xihua Sheng, Zhuoyuan Li, **Haotian Zhang**, Li Li, Dong Liu. Offline and Online Optical Flow Enhancement for Deep Video Compression. AAAI Conference on Artificial Intelligence (AAAI), 2024. [[url]](https://ojs.aaai.org/index.php/AAAI/article/view/28317) [[url]](https://arxiv.org/abs/2307.05092)
 
-- Zhuoyuan Li&#42;, Junqi Liao&#42;, Chuanbo Tang, **Haotian Zhang**, Yuqi Li, Yifan Bian, Xihua Sheng, Xinmin Feng, Yao Li, Changsheng Gao, Li Li, Dong Liu, Feng Wu. USTC-TD: A Test Dataset and Benchmark for Image and Video Coding in 2020s. IEEE Transactions on Multimedia (TMM), 2025. [[url]](https://arxiv.org/abs/2409.08481) (&#42;Eqaul contribution)
+- Zhuoyuan Li&#42;, Junqi Liao&#42;, Chuanbo Tang, **Haotian Zhang**, Yuqi Li, Yifan Bian, Xihua Sheng, Xinmin Feng, Yao Li, Changsheng Gao, Li Li, Dong Liu, Feng Wu. USTC-TD: A Test Dataset and Benchmark for Image and Video Coding in 2020s. IEEE Transactions on Multimedia (TMM), 2025. [[url]](https://arxiv.org/abs/2409.08481) (&#42;Equal contribution)
 
 - Shuai Huo, Dong Liu, **Haotian Zhang**, Li Li, Siwei Ma, Feng Wu, Wen Gao. Towards Hybrid-optimization Video Coding. ACM Computing Surveys, 2024. [[url]](https://dl.acm.org/doi/abs/10.1145/3652148)
 
