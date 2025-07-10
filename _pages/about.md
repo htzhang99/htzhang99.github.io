@@ -135,6 +135,7 @@ My recent research focuses on:
 - **Haotian Zhang**, Dong Liu. 2022. An Image-to-prior Structure for Learned Image Compression. Tech. Rep. VC-38-M345.
 - Haichuan Ma, **Haotian Zhang**, Li Li, Dong Liu. 2021. Suggestions on the standardization scope of neural network-based image coding standard.  Tech. Rep. VC-36-M312.
 - **Haotian Zhang**, Jianping Lin, Li Li, Dong Liu. 2021. Rate control for NIC-0.4 through R-λ model. Tech. Rep. VC-36-M314.
+
 ## AVS
 - 基于部分卷积的EEM运动编解码网络设计. 梁雄壮,唐传波,**张昊田**,李礼,刘东. M8820, 2025.
 - EEM基于部分卷积的网络轻量化设计. 梁雄壮,唐传波,**张昊田**,李礼,刘东. M8966, 2025.
