@@ -134,7 +134,7 @@ My recent research focuses on:
 - Jianping Lin, **Haotian Zhang**, Dong Liu. 2021. Algorithm Description of Variable-Rate NIC Model. Tech. Rep. VC-33-M280. (Adopted)
 
 ## AVS Proposals
-- EEM全局残差块PConv替换探索. 梁雄壮,唐传波,**张昊田**,李礼,刘东. M9050, 2025. (Adopted)
+- EEM全局残差块PConv替换探索. 梁雄壮,唐传波,**张昊田**,李礼,刘东. M9050, 2025.
 - EEM I帧模型改进. 李宇琪,**张昊田**,李瑶,李卓元,李礼,刘东. M8984, 2025.
 - EEM基于部分卷积的网络轻量化设计. 梁雄壮,唐传波,**张昊田**,李礼,刘东. M8966, 2025. (Adopted)
 - 基于部分卷积的EEM运动编解码网络设计. 梁雄壮,唐传波,**张昊田**,李礼,刘东. M8820, 2025.
