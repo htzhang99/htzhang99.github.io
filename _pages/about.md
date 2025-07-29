@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='-abo'></span>
 
-My name is Haotian Zhang. I am pursuing a PhD degree in the <a href="https://ustc-ivclab.github.io/">Intelligent Visual Data Coding Laboratory</a> at the University of Science and Technology of China (USTC). My supervisor is Professor Dong Liu.
+My name is Haotian Zhang. I am pursuing a PhD degree in the <a href="https://ustc-ivclab.github.io/">Intelligent Visual Data Coding Laboratory</a> at the University of Science and Technology of China (USTC). My supervisors are Professor Dong Liu and Professor Li Li.
 
 My research interests include:
 - Image/Video compression
@@ -25,8 +25,8 @@ My research interests include:
 - Computer vision
 
 My recent research focuses on:
-- End-to-end optimization techniques for learned image compression
-- Practical learned image compression system
+- End-to-end optimization techniques for learned image/video compression
+- Practical learned image/video compression system
   
 <span class='anchor' id='-edu'></span>
 
@@ -37,12 +37,17 @@ My recent research focuses on:
  
 <span class='anchor' id='-pub'></span>
 
-# 📝 Publications
+# 💼 Internship
+- *2025.05 - Now*, Tencent Media Lab.
+ 
+<span class='anchor' id='-pub'></span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/hpcm.svg' alt="sym" width="100%"></div></div>
+# 📚 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/hpcm.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Yuqi Li&#42;, <strong>Haotian Zhang&#42;</strong>, Li Li, Dong Liu. Learned Image Compression with Hierarchical Progressive Context Modeling. Accepted to International Conference on Computer Vision (ICCV), 2025. (&#42;Equal contribution)
+- Yuqi Li&#42;, <strong>Haotian Zhang&#42;</strong>, Li Li, Dong Liu. Learned Image Compression with Hierarchical Progressive Context Modeling. Accepted to International Conference on Computer Vision (ICCV), 2025. (&#42;Equal contribution) [[url]](https://iccv.thecvf.com/virtual/2025/poster/1757) [[url]](https://arxiv.org/pdf/2507.19125)
 
 </div>
 </div>
@@ -113,46 +118,49 @@ My recent research focuses on:
 
 <span class='anchor' id='-std'></span>
 
-# 💻 Standard Contributions
+# 📄 Standard Contributions
 - *2021.12 - 2024.12* Serves as a software coordinator of IEEE 1857.11.
 ## IEEE 1857.11 Proposals
-- **Haotian Zhang**, Yuqi Li, Li Li, Dong Liu. 2024. Explorative study of large-scale models for end-to-end image coding. Tech. Rep. VC-54-M473.
-- Yutao Xie, Rui Mao, Bowei Kang, **Haotian Zhang**, Li Li, Dong Liu, Xiaoyan Sun. 2024. Match the reference software with WD: lossless entropy model quantization for iWave. Tech. Rep. VC-54-M472. (Adopted)
-- Rui Mao, Yutao Xie, Bowei Kang, **Haotian Zhang**, Li Li, Dong Liu, Xiaoyan Sun. 2024. Match the reference software with WD: lossy entropy model quantization for iWave. Tech. Rep. VC-54-M471. (Adopted)
-- Tianyu Zhang, Zhirui Zuo, **Haotian Zhang**, Junqi Liao, Feihong Mei, Li Li, Dong Liu. 2023. CE5: Entropy codec engine convergence. Tech. Rep. VC-46-M407. (Adopted)
-- Yiheng Jiang, **Haotian Zhang**, Cunhui Dong, Li Li, Dong Liu. 2023. Entropy coding acceleration for iWave. Tech. Rep. VC-44-M394.
-- Bowei Kang, **Haotian Zhang**, Cunhui Dong, Li Li, Dong Liu. 2023. Match the reference software with WD: decoupling parsing and reconstruction process in iWave. Tech. Rep. VC-44-M393. (Adopted)
-- **Haotian Zhang**, Feihong Mei, Li Li, Dong Liu. 2023. Entropy codec engine convergence. Tech. Rep. VC-44-M392.
-- **Haotian Zhang**, Qiang Li, Cunhui Dong, Li Li, Dong Liu. 2022. Draft of algorithm description for iWave and test model 1.0. Tech. Rep. VC-39-M353.
-- **Haotian Zhang**, Dong Liu. 2022. An Image-to-prior Structure for Learned Image Compression. Tech. Rep. VC-38-M345.
-- Haichuan Ma, Cunhui Dong, Huairui Wang, **Haotian Zhang**, Zhe Zhang, Han Zhu, Ding Ding, Li Li, Xiaozhong Xu, Shan Liu, Zhenzhong Chen, Dong Liu. 2022. Response to the Call for Proposals on Neural Network-Based Image Coding by Team DwOTeo. Tech. Rep. VC-38-M326. (Adopted as reference software)
-- **Haotian Zhang**, Jianping Lin, Dong Liu. 2021. Suggestions on modifying the configuration of the anchor NIC. Tech. Rep. VC-36-M315. (Adopted)
-- **Haotian Zhang**, Jianping Lin, Li Li, Dong Liu. 2021. Rate control for NIC-0.4 through R-λ model. Tech. Rep. VC-36-M314.
-- **Haotian Zhang**, Jianping Lin, Li Li, Dong Liu. 2021. Algorithm description of VR-models for NIC-0.3 and NIC-0.4. Tech. Rep. VC-36-M313. (Adopted)
-- Haichuan Ma, **Haotian Zhang**, Li Li, Dong Liu. 2021. Suggestions on the standardization scope of neural network-based image coding standard.  Tech. Rep. VC-36-M312.
-- Jianping Lin, **Haotian Zhang**, Dong Liu. 2021. Algorithm Description of NIC-0.2 using 3 Variable-Rate NIC Models. Tech. Rep. VC-34-M290. (Adopted)
-- Jianping Lin, **Haotian Zhang**, Dong Liu. 2021. Algorithm Description of Variable-Rate NIC Model. Tech. Rep. VC-33-M280. (Adopted)
+- **Haotian Zhang**, Yuqi Li, Li Li, Dong Liu. Explorative study of large-scale models for end-to-end image coding. VC-54-M473. 2024.
+- Yutao Xie, Rui Mao, Bowei Kang, **Haotian Zhang**, Li Li, Dong Liu, Xiaoyan Sun.  Match the reference software with WD: lossless entropy model quantization for iWave. VC-54-M472. 2024. (Adopted)
+- Rui Mao, Yutao Xie, Bowei Kang, **Haotian Zhang**, Li Li, Dong Liu, Xiaoyan Sun. Match the reference software with WD: lossy entropy model quantization for iWave. VC-54-M471. 2024. (Adopted)
+- Tianyu Zhang, Zhirui Zuo, **Haotian Zhang**, Junqi Liao, Feihong Mei, Li Li, Dong Liu. CE5: Entropy codec engine convergence. VC-46-M407. 2023. (Adopted)
+- Yiheng Jiang, **Haotian Zhang**, Cunhui Dong, Li Li, Dong Liu. Entropy coding acceleration for iWave. VC-44-M394. 2023. 
+- Bowei Kang, **Haotian Zhang**, Cunhui Dong, Li Li, Dong Liu. Match the reference software with WD: decoupling parsing and reconstruction process in iWave. VC-44-M393. 2023. (Adopted)
+- **Haotian Zhang**, Feihong Mei, Li Li, Dong Liu. Entropy codec engine convergence. VC-44-M392. 2023. 
+- **Haotian Zhang**, Qiang Li, Cunhui Dong, Li Li, Dong Liu. Draft of algorithm description for iWave and test model 1.0. VC-39-M353. 2022. 
+- **Haotian Zhang**, Dong Liu. An Image-to-prior Structure for Learned Image Compression. VC-38-M345. 2022.
+- Haichuan Ma, Cunhui Dong, Huairui Wang, **Haotian Zhang**, Zhe Zhang, Han Zhu, Ding Ding, Li Li, Xiaozhong Xu, Shan Liu, Zhenzhong Chen, Dong Liu. Response to the Call for Proposals on Neural Network-Based Image Coding by Team DwOTeo. VC-38-M326. 2022. (Adopted as reference software)
+- **Haotian Zhang**, Jianping Lin, Dong Liu. Suggestions on modifying the configuration of the anchor NIC. VC-36-M315. 2021. (Adopted)
+- **Haotian Zhang**, Jianping Lin, Li Li, Dong Liu. Rate control for NIC-0.4 through R-λ model. VC-36-M314. 2021. 
+- **Haotian Zhang**, Jianping Lin, Li Li, Dong Liu. Algorithm description of VR-models for NIC-0.3 and NIC-0.4. VC-36-M313. 2021. (Adopted)
+- Haichuan Ma, **Haotian Zhang**, Li Li, Dong Liu. Suggestions on the standardization scope of neural network-based image coding standard. VC-36-M312. 2021. 
+- Jianping Lin, **Haotian Zhang**, Dong Liu. Algorithm Description of NIC-0.2 using 3 Variable-Rate NIC Models. VC-34-M290. 2021. (Adopted)
+- Jianping Lin, **Haotian Zhang**, Dong Liu.  Algorithm Description of Variable-Rate NIC Model. VC-33-M280. 2021. (Adopted)
 
 ## AVS Proposals
-- EEM全局残差块PConv替换探索. 梁雄壮,唐传波,**张昊田**,李礼,刘东. M9050, 2025.
-- EEM I帧模型改进. 李宇琪,**张昊田**,李瑶,李卓元,李礼,刘东. M8984, 2025.
-- EEM基于部分卷积的网络轻量化设计. 梁雄壮,唐传波,**张昊田**,李礼,刘东. M8966, 2025. (Adopted)
-- 基于部分卷积的EEM运动编解码网络设计. 梁雄壮,唐传波,**张昊田**,李礼,刘东. M8820, 2025.
+- 梁雄壮,唐传波,**张昊田**,李礼,刘东. EEM全局残差块PConv替换探索. M9050, 2025.
+- 李宇琪,**张昊田**,李瑶,李卓元,李礼,刘东. EEM I帧模型改进. M8984, 2025.
+- 梁雄壮,唐传波,**张昊田**,李礼,刘东. EEM基于部分卷积的网络轻量化设计. M8966, 2025. (Adopted)
+- 梁雄壮,唐传波,**张昊田**,李礼,刘东. 基于部分卷积的EEM运动编解码网络设计. M8820, 2025.
 
 <span class='anchor' id='-cha'></span>
 
-# 🏅 Challenge Awards
-- *2025.04* Yiheng Jiang, Yuqi Li, Yifan Bian, **Haotian Zhang**. 5th National Artificial Intelligence Challenge (Image compression track) **Second prize winner**. 
-- *2024.10* MMSP 2024 Grand Challenge Image compression (track 1) winner & Image compression (track 2) winner & Video compression (track 1) winner.
-- *2023.12* **Haotian Zhang**, Feihong Mei, Junqi Liao. VCIP 2023 Grand Challenge Award (Image compression track) **First prize winner**.
-- *2022.12* **Haotian Zhang**, Junqi Liao, Shanshan Li, Yiheng Jiang, Zhaoyang Jia. VCIP 2022 Grand Challenge Award (Image compression performance track) **Second prize winner**.
-- *2022.07* Xihua Sheng, **Haotian Zhang**, Runyu Yang, Changsheng Gao, Kang Liu. 3rd National Artificial Intelligence Challenge (Feature compression track) **Top-10 team**. 
+# 🏆 Challenge Awards
+- *2025.04* 第五届全国人工智能大赛“AI+图像编码”赛道二等奖. 
+- *2024.10* 1st Prize Winner, Image Compression Performance \& Complexity Track and Video Compression Complexity Track, 3rd Practical End-to-End Compression Challenge.
+- *2023.12* 1st Prize Winner, Image Compression Track, 2nd Practical End-to-End Compression Challenge.
+- *2022.12* 2nd Prize Winner, Performance Track, 1st Practical End-to-End Image Compression Challenge.
+- *2022.07* 第三届全国人工智能大赛“AI+视觉特征编码”赛道优胜奖. 
 
 <span class='anchor' id='-hon'></span>
 
-# 🏅 Honors
-- Outstanding Graduate of Anhui province, 2021.
-- Outstanding Graduate of University of Science and Technology of China, 2021.
+# 🎖️ Honors
+- 安徽省优秀毕业生, 2021.
+- 中国科学技术大学优秀毕业生, 2021.
+- 中国科学技术大学第九届优秀学生“荣誉等级”称号, 2021.
+- 中国科学技术大学人工智能英才班
+- 中国科学技术大学信息科技英才班
 
 
 
