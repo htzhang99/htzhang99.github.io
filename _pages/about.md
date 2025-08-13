@@ -68,6 +68,14 @@ My recent research focuses on:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/scaling.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Yuqi Li, **Haotian Zhang**, Li Li, Dong Liu, Feng Wu. Scaling Learned Image Compression Models up to 1 Billion. Arxiv, 2025. [[url]](https://arxiv.org/abs/2508.09075)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='images/ggm.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
