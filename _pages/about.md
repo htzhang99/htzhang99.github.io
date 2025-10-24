@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='-abo'></span>
 
-My name is Haotian Zhang. I am pursuing a PhD degree in the <a href="https://ustc-ivclab.github.io/">Intelligent Visual Data Coding Laboratory</a> at the University of Science and Technology of China (USTC). My supervisors are Professor Dong Liu and Professor Li Li.
+My name is Haotian Zhang. I am pursuing a PhD degree in the <a href="https://ustc-ivclab.github.io/">Intelligent Visual Data Coding Laboratory</a> at the <a href="https://www.ustc.edu.cn/">University of Science and Technology of China (USTC)</a>. My supervisors are Professor <a href="https://faculty.ustc.edu.cn/dongeliu/">Dong Liu</a> and Professor <a href="https://faculty.ustc.edu.cn/lil1/en/index.htm">Li Li</a>.
 
 My research interests include:
 - Image/Video compression
@@ -47,7 +47,7 @@ My recent research focuses on:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/hpcm.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Yuqi Li&#42;, <strong>Haotian Zhang&#42;</strong>, Li Li, Dong Liu. Learned Image Compression with Hierarchical Progressive Context Modeling. Accepted to International Conference on Computer Vision (ICCV), 2025. (&#42;Equal contribution) [[url]](https://iccv.thecvf.com/virtual/2025/poster/1757) [[url]](https://arxiv.org/pdf/2507.19125)
+- Yuqi Li&#42;, <strong>Haotian Zhang&#42;</strong>, Li Li, Dong Liu. Learned Image Compression with Hierarchical Progressive Context Modeling. Accepted to International Conference on Computer Vision (ICCV), 2025. (&#42;Equal contribution) [[url]](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Learned_Image_Compression_with_Hierarchical_Progressive_Context_Modeling_ICCV_2025_paper.pdf) [[Arxiv]](https://arxiv.org/pdf/2507.19125) [[Github]](https://github.com/lyq133/LIC-HPCM)
 
 </div>
 </div>
@@ -55,7 +55,7 @@ My recent research focuses on:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/switchp.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **Haotian Zhang**, Yuqi Li, Li Li, Dong Liu. Learning Switchable Priors for Neural Image Compression. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025. [[url]](https://ieeexplore.ieee.org/document/11027134) [[url]](https://arxiv.org/abs/2504.16586)
+- **Haotian Zhang**, Yuqi Li, Li Li, Dong Liu. Learning Switchable Priors for Neural Image Compression. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025. [[Xplore]](https://ieeexplore.ieee.org/document/11027134) [[Arxiv]](https://arxiv.org/abs/2504.16586)
 
 </div>
 </div>
@@ -63,7 +63,7 @@ My recent research focuses on:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/gap.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **Haotian Zhang**, Dong Liu. The Gap Between Principle and Practice of Lossy Image Coding. Arxiv, 2025. [[url]](https://arxiv.org/pdf/2501.12330)
+- **Haotian Zhang**, Dong Liu. The Gap Between Principle and Practice of Lossy Image Coding. Arxiv, 2025. [[Arxiv]](https://arxiv.org/pdf/2501.12330)
 
 </div>
 </div>
@@ -71,7 +71,7 @@ My recent research focuses on:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/scaling.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Yuqi Li, **Haotian Zhang**, Li Li, Dong Liu, Feng Wu. Scaling Learned Image Compression Models up to 1 Billion. Arxiv, 2025. [[url]](https://arxiv.org/abs/2508.09075)
+- Yuqi Li, **Haotian Zhang**, Li Li, Dong Liu, Feng Wu. Scaling Learned Image Compression Models up to 1 Billion. Arxiv, 2025. [[Arxiv]](https://arxiv.org/abs/2508.09075)
 
 </div>
 </div>
@@ -79,7 +79,7 @@ My recent research focuses on:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='images/ggm.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **Haotian Zhang**, Li Li, Dong Liu. Generalized Gaussian Model for Learned Image Compression. IEEE Transactions on Image Processing (TIP), 2025. [[url]](https://ieeexplore.ieee.org/document/10938038) [[url]](https://arxiv.org/pdf/2411.19320)
+- **Haotian Zhang**, Li Li, Dong Liu. Generalized Gaussian Model for Learned Image Compression. IEEE Transactions on Image Processing (TIP), 2025. [[Xplore]](https://ieeexplore.ieee.org/document/10938038) [[Arxiv]](https://arxiv.org/pdf/2411.19320)
 
 </div>
 </div>
@@ -87,7 +87,7 @@ My recent research focuses on:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PCS 2024</div><img src='images/PCS2024.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **Haotian Zhang**, Feihong Mei, Junqi Liao, Li Li, Houqiang Li, Dong Liu. Practical Learned Image Compression with Online Encoder Optimization. Picture Coding Symposium (PCS), 2024. [[url]](https://ieeexplore.ieee.org/abstract/document/10566341)
+- **Haotian Zhang**, Feihong Mei, Junqi Liao, Li Li, Houqiang Li, Dong Liu. Practical Learned Image Compression with Online Encoder Optimization. Picture Coding Symposium (PCS), 2024. [[Xplore]](https://ieeexplore.ieee.org/abstract/document/10566341)
 
 </div>
 </div>
@@ -95,7 +95,7 @@ My recent research focuses on:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Quant.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **Haotian Zhang**, Li Li, Dong Liu. On Uniform Scalar Quantization for Learned Image Compression. Arxiv, 2023. [[url]](https://arxiv.org/pdf/2309.17051)
+- **Haotian Zhang**, Li Li, Dong Liu. On Uniform Scalar Quantization for Learned Image Compression. Arxiv, 2023. [[Xplore]](https://arxiv.org/pdf/2309.17051)
 
 </div>
 </div>
@@ -103,26 +103,28 @@ My recent research focuses on:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2023</div><img src='images/ISCAS2023.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **Haotian Zhang**, Junqi Liao, Yiheng Jiang, Li Li, Dong Liu. Padding-Aware Learned Image Compression. International Symposium on Circuits and Systems (ISCAS), 2023. [[url]](https://ieeexplore.ieee.org/abstract/document/10181476)
+- **Haotian Zhang**, Junqi Liao, Yiheng Jiang, Li Li, Dong Liu. Padding-Aware Learned Image Compression. International Symposium on Circuits and Systems (ISCAS), 2023. [[Xplore]](https://ieeexplore.ieee.org/abstract/document/10181476)
 
 </div>
 </div>
 
-- Yiheng Jiang, **Haotian Zhang**, Li Li, Dong Liu, Zhu Li. Sparse Point Clouds Assisted Learned Image Compression. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024. [[url]](https://ieeexplore.ieee.org/document/10816198) [[url]](https://arxiv.org/abs/2412.15752)
+- Yuqi Li, **Haotian Zhang**, Xiongzhuang Liang, Qian He, Yiheng Jiang, Li Li, Dong Liu. Transformer-Based Channel Autoregressive with Space-to-Channel Context Ordering for Learned Image Compression. International Conference on Visual Communications and Image Processing (VCIP), 2025.
 
-- Yuqi Li, **Haotian Zhang**, Xiaomin Song, Zheng Liu, Huiming Zheng, Li Li, Dong Liu. Deviation Control for Learned Image Compression. International Conference on Visual Communications and Image Processing (VCIP), 2024. [[url]](https://ieeexplore.ieee.org/abstract/document/10849925)
+- Yiheng Jiang, **Haotian Zhang**, Li Li, Dong Liu, Zhu Li. Sparse Point Clouds Assisted Learned Image Compression. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024. [[Xplore]](https://ieeexplore.ieee.org/document/10816198) [[Arxiv]](https://arxiv.org/abs/2412.15752)
 
-- Tianyu Zhang, **Haotian Zhang**, Yuqi Li, Li Li, Dong Liu. Few-Shot Domain Adaptation for Learned Image Compression. AAAI Conference on Artificial Intelligence (AAAI), 2025. [[url]](https://ojs.aaai.org/index.php/AAAI/article/view/33100) [[url]](https://arxiv.org/abs/2409.11111) 
+- Yuqi Li, **Haotian Zhang**, Xiaomin Song, Zheng Liu, Huiming Zheng, Li Li, Dong Liu. Deviation Control for Learned Image Compression. International Conference on Visual Communications and Image Processing (VCIP), 2024. [[Xplore]](https://ieeexplore.ieee.org/abstract/document/10849925)
 
-- Yuqi Li, **Haotian Zhang**, Dong Liu. Flexible Coding Order for Learned Image Compression. International Conference on Visual Communications and Image Processing (VCIP), 2023. [[url]](https://ieeexplore.ieee.org/abstract/document/10402631)
+- Tianyu Zhang, **Haotian Zhang**, Yuqi Li, Li Li, Dong Liu. Few-Shot Domain Adaptation for Learned Image Compression. AAAI Conference on Artificial Intelligence (AAAI), 2025. [[url]](https://ojs.aaai.org/index.php/AAAI/article/view/33100) [[Arxiv]](https://arxiv.org/abs/2409.11111) 
 
-- Chuanbo Tang, Xihua Sheng, Zhuoyuan Li, **Haotian Zhang**, Li Li, Dong Liu. Offline and Online Optical Flow Enhancement for Deep Video Compression. AAAI Conference on Artificial Intelligence (AAAI), 2024. [[url]](https://ojs.aaai.org/index.php/AAAI/article/view/28317) [[url]](https://arxiv.org/abs/2307.05092)
+- Yuqi Li, **Haotian Zhang**, Dong Liu. Flexible Coding Order for Learned Image Compression. International Conference on Visual Communications and Image Processing (VCIP), 2023. [[Xplore]](https://ieeexplore.ieee.org/abstract/document/10402631)
 
-- Zhuoyuan Li&#42;, Junqi Liao&#42;, Chuanbo Tang, **Haotian Zhang**, Yuqi Li, Yifan Bian, Xihua Sheng, Xinmin Feng, Yao Li, Changsheng Gao, Li Li, Dong Liu, Feng Wu. USTC-TD: A Test Dataset and Benchmark for Image and Video Coding in 2020s. IEEE Transactions on Multimedia (TMM), 2025. [[url]](https://arxiv.org/abs/2409.08481) (&#42;Equal contribution)
+- Chuanbo Tang, Xihua Sheng, Zhuoyuan Li, **Haotian Zhang**, Li Li, Dong Liu. Offline and Online Optical Flow Enhancement for Deep Video Compression. AAAI Conference on Artificial Intelligence (AAAI), 2024. [[url]](https://ojs.aaai.org/index.php/AAAI/article/view/28317) [[Arxiv]](https://arxiv.org/abs/2307.05092)
+
+- Zhuoyuan Li&#42;, Junqi Liao&#42;, Chuanbo Tang, **Haotian Zhang**, Yuqi Li, Yifan Bian, Xihua Sheng, Xinmin Feng, Yao Li, Changsheng Gao, Li Li, Dong Liu, Feng Wu. USTC-TD: A Test Dataset and Benchmark for Image and Video Coding in 2020s. IEEE Transactions on Multimedia (TMM), 2025. [[Xplore]](https://ieeexplore.ieee.org/document/11155177) [[Arxiv]](https://arxiv.org/abs/2409.08481) [[Github]](https://esakak.github.io/USTC-TD/) (&#42;Equal contribution)
 
 - Shuai Huo, Dong Liu, **Haotian Zhang**, Li Li, Siwei Ma, Feng Wu, Wen Gao. Towards Hybrid-optimization Video Coding. ACM Computing Surveys, 2024. [[url]](https://dl.acm.org/doi/abs/10.1145/3652148)
 
-- Cunhui Dong, Haichuan Ma, **Haotian Zhang**, Changsheng Gao, Li Li, Dong Liu. Wavelet-Like Transform-Based Technology in Response to the Call for Proposals on Neural Network-Based Image Coding. Arxiv, 2024. [[url]](https://arxiv.org/abs/2403.05937)
+- Cunhui Dong, Haichuan Ma, **Haotian Zhang**, Changsheng Gao, Li Li, Dong Liu. Wavelet-Like Transform-Based Technology in Response to the Call for Proposals on Neural Network-Based Image Coding. Arxiv, 2024. [[Arxiv]](https://arxiv.org/abs/2403.05937)
 
 <span class='anchor' id='-std'></span>
 
