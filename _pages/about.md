@@ -47,7 +47,7 @@ My recent research focuses on:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/hpcm.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Yuqi Li&#42;, <strong>Haotian Zhang&#42;</strong>, Li Li, Dong Liu. Learned Image Compression with Hierarchical Progressive Context Modeling. Accepted to International Conference on Computer Vision (ICCV), 2025. (&#42;Equal contribution) [[url]](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Learned_Image_Compression_with_Hierarchical_Progressive_Context_Modeling_ICCV_2025_paper.pdf) [[Arxiv]](https://arxiv.org/pdf/2507.19125) [[Github]](https://github.com/lyq133/LIC-HPCM)
+- Yuqi Li&#42;, <strong>Haotian Zhang&#42;</strong>, Li Li, Dong Liu. Learned Image Compression with Hierarchical Progressive Context Modeling. International Conference on Computer Vision (ICCV), 2025. (&#42;Equal contribution) [[url]](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Learned_Image_Compression_with_Hierarchical_Progressive_Context_Modeling_ICCV_2025_paper.pdf) [[Arxiv]](https://arxiv.org/pdf/2507.19125) [[Github]](https://github.com/lyq133/LIC-HPCM)
 
 </div>
 </div>
@@ -95,7 +95,7 @@ My recent research focuses on:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Quant.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **Haotian Zhang**, Li Li, Dong Liu. On Uniform Scalar Quantization for Learned Image Compression. Arxiv, 2023. [[Xplore]](https://arxiv.org/pdf/2309.17051)
+- **Haotian Zhang**, Li Li, Dong Liu. On Uniform Scalar Quantization for Learned Image Compression. Arxiv, 2023. [[Arxiv]](https://arxiv.org/pdf/2309.17051)
 
 </div>
 </div>
