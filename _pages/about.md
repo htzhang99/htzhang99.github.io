@@ -37,8 +37,8 @@ My recent research focuses on:
  
 <span class='anchor' id='-pub'></span>
 
-# 💼 Internship
-- *2025.05 - Now*, Tencent Media Lab.
+# 💼 Internships
+- *2025.05 - 2025.11*, Tencent Multimedia Lab.
  
 <span class='anchor' id='-pub'></span>
 
