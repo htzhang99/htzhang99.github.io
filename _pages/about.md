@@ -20,13 +20,13 @@ redirect_from:
 My name is Haotian Zhang. I am pursuing a PhD degree in the <a href="https://ustc-ivclab.github.io/">Intelligent Visual Data Coding Laboratory</a> at the <a href="https://www.ustc.edu.cn/">University of Science and Technology of China (USTC)</a>. My supervisors are Professor <a href="https://faculty.ustc.edu.cn/dongeliu/">Dong Liu</a> and Professor <a href="https://faculty.ustc.edu.cn/lil1/en/index.htm">Li Li</a>.
 
 My research interests include:
-- Image/Video compression
+- Data compression
+- Generative model
 - Machine learning
-- Computer vision
 
 My recent research focuses on:
-- End-to-end optimization techniques for learned image/video compression
-- Practical learned image/video compression system
+- End-to-end optimization techniques for learned data compression
+- Practical learned image compression system
   
 <span class='anchor' id='-edu'></span>
 
@@ -108,6 +108,8 @@ My recent research focuses on:
 </div>
 </div>
 
+- Qian He, Yuqi Li, Yiheng Jiang, **Haotian Zhang**, Li Li, Dong Liu. Practical Image Compression with Energy-Guided Asymmetric Entropy Modeling. Data Compression Conference (DCC), 2026.
+
 - Yuqi Li, **Haotian Zhang**, Xiongzhuang Liang, Qian He, Yiheng Jiang, Li Li, Dong Liu. Transformer-Based Channel Autoregressive with Space-to-Channel Context Ordering for Learned Image Compression. International Conference on Visual Communications and Image Processing (VCIP), 2025.
 
 - Yiheng Jiang, **Haotian Zhang**, Li Li, Dong Liu, Zhu Li. Sparse Point Clouds Assisted Learned Image Compression. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024. [[Xplore]](https://ieeexplore.ieee.org/document/10816198) [[Arxiv]](https://arxiv.org/abs/2412.15752)
@@ -149,9 +151,11 @@ My recent research focuses on:
 - Jianping Lin, **Haotian Zhang**, Dong Liu.  Algorithm Description of Variable-Rate NIC Model. VC-33-M280. 2021. (Adopted)
 
 ## AVS Proposals
+- 蒋易恒，李宇琪，**张昊田**，李礼，刘东. 三维生物医学图像基于单高斯查找表的熵编码加速. M9339, 2025.
+- 蒋易恒，李瑶，李宇琪，**张昊田**，卞逸凡，薛冬梅，李礼，刘东. 三维医学图像基于超先验网络的浅层小波编码框架的扩展应用. M9240, 2025.
 - 梁雄壮,唐传波,**张昊田**,李礼,刘东. EEM全局残差块PConv替换探索. M9050, 2025.
 - 李宇琪,**张昊田**,李瑶,李卓元,李礼,刘东. EEM I帧模型改进. M8984, 2025.
-- 梁雄壮,唐传波,**张昊田**,李礼,刘东. EEM基于部分卷积的网络轻量化设计. M8966, 2025. (Adopted)
+- 梁雄壮,唐传波,**张昊田**,李礼,刘东. EEM基于部分卷积的网络轻量化设计. M8966, 2025.
 - 梁雄壮,唐传波,**张昊田**,李礼,刘东. 基于部分卷积的EEM运动编解码网络设计. M8820, 2025.
 
 <span class='anchor' id='-cha'></span>
