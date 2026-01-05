@@ -38,7 +38,7 @@ My recent research focuses on:
 <span class='anchor' id='-pub'></span>
 
 # 💼 Internships
-- *2025.05 - 2025.11*, Tencent Multimedia Lab.
+- *2025.05 - 2025.11*, Tencent Media Lab.
  
 <span class='anchor' id='-pub'></span>
 
@@ -161,8 +161,9 @@ My recent research focuses on:
 <span class='anchor' id='-cha'></span>
 
 # 🏆 Challenge Awards
+- *2025.12* 2nd Prize Winner, Image Compression Track, 4th Practical End-to-End Compression Challenge.
 - *2025.04* 第五届全国人工智能大赛“AI+图像编码”赛道二等奖. 
-- *2024.10* 1st Prize Winner, Image Compression Performance \& Complexity Track and Video Compression Complexity Track, 3rd Practical End-to-End Compression Challenge.
+- *2024.10* 1st Prize Winner, Image Compression Performance and Complexity Track, 3rd Practical End-to-End Compression Challenge.
 - *2023.12* 1st Prize Winner, Image Compression Track, 2nd Practical End-to-End Compression Challenge.
 - *2022.12* 2nd Prize Winner, Performance Track, 1st Practical End-to-End Image Compression Challenge.
 - *2022.07* 第三届全国人工智能大赛“AI+视觉特征编码”赛道优胜奖. 
@@ -175,9 +176,4 @@ My recent research focuses on:
 - 中国科学技术大学第九届优秀学生“荣誉等级”称号, 2021.
 - 中国科学技术大学人工智能英才班
 - 中国科学技术大学信息科技英才班
-
-
-
-
-
 
