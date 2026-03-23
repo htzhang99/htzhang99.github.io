@@ -110,7 +110,7 @@ My recent research focuses on:
 
 - Qian He, Yuqi Li, Yiheng Jiang, **Haotian Zhang**, Li Li, Dong Liu. Practical Image Compression with Energy-Guided Asymmetric Entropy Modeling. Data Compression Conference (DCC), 2026.
 
-- Yuqi Li, **Haotian Zhang**, Xiongzhuang Liang, Qian He, Yiheng Jiang, Li Li, Dong Liu. Transformer-Based Channel Autoregressive with Space-to-Channel Context Ordering for Learned Image Compression. International Conference on Visual Communications and Image Processing (VCIP), 2025.
+- Yuqi Li, **Haotian Zhang**, Xiongzhuang Liang, Qian He, Yiheng Jiang, Li Li, Dong Liu. Transformer-Based Channel Autoregressive with Space-to-Channel Context Ordering for Learned Image Compression. International Conference on Visual Communications and Image Processing (VCIP), 2025. [[Xplore]](https://ieeexplore.ieee.org/document/11396879)
 
 - Yiheng Jiang, **Haotian Zhang**, Li Li, Dong Liu, Zhu Li. Sparse Point Clouds Assisted Learned Image Compression. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024. [[Xplore]](https://ieeexplore.ieee.org/document/10816198) [[Arxiv]](https://arxiv.org/abs/2412.15752)
 
@@ -151,8 +151,9 @@ My recent research focuses on:
 - Jianping Lin, **Haotian Zhang**, Dong Liu.  Algorithm Description of Variable-Rate NIC Model. VC-33-M280. 2021. (Adopted)
 
 ## AVS Proposals
-- 蒋易恒，李宇琪，**张昊田**，李礼，刘东. 三维生物医学图像基于单高斯查找表的熵编码加速. M9339, 2025.
-- 蒋易恒，李瑶，李宇琪，**张昊田**，卞逸凡，薛冬梅，李礼，刘东. 三维医学图像基于超先验网络的浅层小波编码框架的扩展应用. M9240, 2025.
+- 蒋易恒, 李宇琪, **张昊田**, 李礼, 刘东. 三维生物医学图像编码各向同性与各向异性模型及其性能. M9606, 2026. (Adopted)
+- 蒋易恒，李宇琪，**张昊田**，李礼，刘东. 三维生物医学图像基于单高斯查找表的熵编码加速. M9339, 2025. (Adopted)
+- 蒋易恒，李瑶，李宇琪，**张昊田**，卞逸凡，薛冬梅，李礼，刘东. 三维医学图像基于超先验网络的浅层小波编码框架的扩展应用. M9240, 2025. (Adopted)
 - 梁雄壮,唐传波,**张昊田**,李礼,刘东. EEM全局残差块PConv替换探索. M9050, 2025.
 - 李宇琪,**张昊田**,李瑶,李卓元,李礼,刘东. EEM I帧模型改进. M8984, 2025.
 - 梁雄壮,唐传波,**张昊田**,李礼,刘东. EEM基于部分卷积的网络轻量化设计. M8966, 2025.
