@@ -60,7 +60,7 @@ My recent research focuses on:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/gap.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/gap.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **Haotian Zhang**, Dong Liu. The Gap Between Principle and Practice of Lossy Image Coding. Arxiv, 2025. [[Arxiv]](https://arxiv.org/pdf/2501.12330)
@@ -174,6 +174,7 @@ My recent research focuses on:
 <span class='anchor' id='-hon'></span>
 
 # 🎖️ Honors
+- 比亚迪奖学金, 2025.
 - 安徽省优秀毕业生, 2021.
 - 中国科学技术大学优秀毕业生, 2021.
 - 中国科学技术大学第九届优秀学生“荣誉等级”称号, 2021.
